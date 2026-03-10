@@ -1,6 +1,5 @@
-# Hi there
-
-
+# Hi There
+(https://github.com/ceomarcusg/ceomarcusg/blob/main/welcome1.png?raw=true)
 📍 Augusta, GA  
 📧 marcusglenn@mdotglobal.com  
 🌐 Portfolio: Marcus Glenn Web3  
