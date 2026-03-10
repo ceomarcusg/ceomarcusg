@@ -4,11 +4,12 @@
 
 ---
 
-## 👋 About Me
+## 👋 Professional Summary
 
-I am a **Web3 content strategist and crypto marketing expert with 20+ years of experience** in content creation, copywriting, and audience engagement.
-
-I specialize in transforming **complex blockchain concepts** into **clear, engaging, and accessible content**. My work focuses on educating global audiences about blockchain, crypto, and decentralized technologies while helping brands grow their presence in Web3.
+Web3 content strategist and crypto marketing expert with 20+ years of experience in content creation, copywriting, and
+audience engagement. A passionate Ethereum enthusiast, adept at transforming complex blockchain concepts into
+clear, engaging, and accessible content. Proven ability to educate global audiences, increase brand awareness, and
+deliver quality work under tight deadlines.
 
 ---
 
@@ -50,9 +51,10 @@ I specialize in transforming **complex blockchain concepts** into **clear, engag
 ### Content Marketing Specialist  
 **Various Agencies & Brands | 2000 – 2015**
 
-- Delivered award-winning marketing campaigns for **technology, finance, and digital industries**
-- Created **user-focused documentation, guides, and FAQs**
-- Simplified complex technical platforms for global audiences
+- Delivered award-winning campaigns and educational content for technology, finance, and digital
+sectors.
+- Craed user-focused documentation, guides, and FAQs to simplify technical platforms for global
+audiences
 
 ---
 
