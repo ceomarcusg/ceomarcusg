@@ -113,4 +113,3 @@ ScoreMyAI evaluates cryptocurrency assets using **AI-powered analytics and data 
 
 ---
 
-## 🛠 Technologies & Tools
