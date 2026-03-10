@@ -1,6 +1,6 @@
 # Hi There
 
-![](https://github.com/ceomarcusg/ceomarcusg/blob/main/welcome1.png?raw=true)
+![](https://github.com/ceomarcusg/ceomarcusg/blob/main/blockchain.jpg?raw=true)
 
 ---
 
