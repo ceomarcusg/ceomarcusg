@@ -56,53 +56,56 @@ I specialize in transforming **complex blockchain concepts** into **clear, engag
 
 ---
 
-# 🧠 Featured Project
+## 🎓 Education
 
-## ScoreMyAI Crypto Intelligence Engine
+**M.B.A. Marketing**  
+West Virginia State University | 2014  
 
-**AI-Powered Crypto Scoring + Market Intelligence**
+**M.B.A. Business Marketing**  
+Augusta State University | 2010  
 
-ScoreMyAI evaluates cryptocurrency assets using **AI-powered analytics and data signals**.
-
-### Signals Analyzed
-
-- Market Data
-- Social Sentiment
-- Developer Activity
-- Blockchain Metrics
-- Volatility Risk
-- AI Prediction Models
-
-### Example Output
-
-**Bitcoin (BTC)**
-
-- ScoreMyAI Rating: **92**
-- Sentiment: **Bullish**
-- Network Strength: **High**
-- Developer Activity: **Strong**
-- Risk Index: **Low**
-- AI Market Outlook: **Positive**
+**B.S. Business Administration and Marketing**  
+Savannah State University | 2006  
 
 ---
 
-## ⚙ Architecture
+## ⛓️ Blockchain & Web3 Expertise
 
-1. Data Collector
-2. AI Sentiment Analyzer
-3. Blockchain Metrics Scanner
-4. Crypto Scoring Algorithm
-5. API Output Layer
-6. Dashboard / Web Interface
+- **Ethereum Enthusiast since 2015:** Extensive hands-on experience with Ethereum wallets, DeFi protocols, and smart contracts.
 
----
+- **Active Participant:** Use of tools like Etherscan, MetaMask, and DApps to explore the blockchain ecosystem.
 
-## 📡 Data Sources
-
-- CoinGecko API
-- Crypto Twitter Sentiment
-- GitHub Developer Activity
-- Blockchain Transaction Data
+- **Content Portfolio:**  
+  🌐 Marcus Glenn Web3 | Marcus Glenn - Web 3
 
 ---
 
+## 🛠 Skills
+
+- Technical Content Writing  
+- Ethereum & DeFi Research  
+- Audience Education & Simplification  
+- Brand Messaging & Copywriting  
+- Project Management  
+- SEO Optimization  
+
+---
+
+## 💼 Wallet Address
+
+`MarcusGlenn.eth`
+
+---
+
+## 📂 Portfolio
+
+🔗 https://marcusglennweb3.vonza.com
+
+---
+
+## ⭐ Why Me?
+
+- Deep passion for Ethereum and Web3.  
+- Proven ability to simplify technical blockchain concepts.  
+- 20+ years of content strategy, copywriting, and educational storytelling experience.  
+- A strong understanding of Etherscan’s role as the leading Ethereum block explorer.
