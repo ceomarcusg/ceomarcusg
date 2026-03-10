@@ -1,6 +1,5 @@
-# Marcus Glenn
+# Hi there
 
-**Web3 Content Strategist | Crypto Marketing Expert | AI & Blockchain Advocate**
 
 📍 Augusta, GA  
 📧 marcusglenn@mdotglobal.com  
